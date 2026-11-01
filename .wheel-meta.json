@@ -1,0 +1,22 @@
+{
+  "wheel_id": 621,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-151",
+  "project": "waterproofing-adelaide-11ba0577b2b9b81f1e3123dec9c4032806cd2a9f",
+  "parent_t1_ref": "prowaterproofingadelaide-005",
+  "node_role": "buffer",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing adelaide",
+  "intended_url": "https://sitesau.github.io/prowaterproofingadelaide-151/",
+  "tier": "T2",
+  "writeback_nonce": "ff899db7b867872d",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/prowaterproofingadelaide-005/waterproofing-adelaide.html",
+      "anchor": "Waterproofing Adelaide: A Practical Project Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
